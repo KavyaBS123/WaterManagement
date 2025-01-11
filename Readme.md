@@ -1,6 +1,6 @@
-# WaterForecast
+# WaterForecast 🌊 
 
-WaterForecast is a web application that provides advanced forecasting solutions for sustainable water resource management. The application includes features such as water demand forecasting, storage optimization, stakeholder insights, and a chatbot for user interaction.
+WaterForecast is a web application that provides advanced forecasting solutions for sustainable water resource management. The application includes water demand forecasting, storage optimization, stakeholder insights, and a chatbot for user interaction.
 
 ## Table of Contents
 
